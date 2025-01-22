@@ -47,7 +47,7 @@ I am **Maksim** (aka Azule/Redsham), a developer with experience in game develop
 - **Simulated Systems**: Added systems for electricity, fuel, and mechanical transmission to add depth to gameplay, where players must solve problems related to fuel transport and power generation.
 - **Modding Support**: Enabled modding capabilities using C#, providing players with tools to create and share custom content. Integrated support for expanding or customizing the game's features via mods.
 
-[Steam](https://store.steampowered.com/app/1558100/PixPhys/).
+[Avaible on Steam](https://store.steampowered.com/app/1558100/PixPhys/)
 
 ---
 
