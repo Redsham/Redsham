@@ -1,0 +1,9 @@
+Tool: built-in imagegen
+Source: IMG_5932.jpg, supplied by the profile owner
+Export: JPEG, 1800 × 600
+
+Edit the supplied photograph into a wide GitHub profile banner, 3:1 aspect ratio, ideally 1800 by 600 pixels.
+Use the attached photo as the edit target, not inspiration for a new scene. Keep the original photographic scene, the same hooded person with the headlamp at the left, the same rusty yellow industrial doors with their existing Cyrillic stenciled lettering in the middle, and the same red-lit wall on the right. Preserve the person's identity, clothing, pose, headlamp, architectural geometry, original textures, and the original deep blue / warm yellow / red lighting. Do not invent, replace, or remove any objects, people, signs, or markings.
+Reframe into a wide crop that retains the person's head and upper body, the recognizable yellow doors and their large red warning lettering, and the right-hand red-lit wall. The result must look like the actual photograph, with no generative restyling or beautification.
+Add restrained professional typography in the dark negative space at the upper left, keeping clear of the person's head, headlamp, and the door lettering: large off-white uppercase text exactly "AZULE" in a clean bold sans-serif. Below it, smaller text exactly "Unity / C# developer".
+A very subtle localized dark gradient behind the typography is acceptable. No other graphics, borders, patterns, slogans, or text. Keep the photo's existing atmosphere and color grading.

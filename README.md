@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Azule — Maksim Evdokimov, Unity / C# developer. Gameplay systems, physics, and tools." width="100%">
+  <img src="assets/banner-photo.jpg" alt="Azule — Unity / C# developer. Industrial photography with yellow gates, a headlamp, and red light." width="100%">
 </p>
 
 <h1 align="center">Maksim Evdokimov · Azule</h1>
