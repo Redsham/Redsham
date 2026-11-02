@@ -1,59 +1,32 @@
-# Hi! 👋
+# Maksim Evdokimov · Azule
 
-Welcome to my GitHub!
+Unity / C# developer · Saint Petersburg
 
-I am **Maksim** (aka Azule/Redsham), a developer with experience in game development, applications, and automation. 
+I'm Maksim, also known as **Azule** or **Redsham**. I work on **BUS** at **Herbarium Games** and study game development at **ITMO University**, where I'm a third-year bachelor's student.
 
----
+I've been making games with Unity since 2020 and working with Unreal Engine since 2023. I like building systems players can experiment with: assembling a machine, wiring up its controls, or figuring out how to turn a dice roll into a good tactical move.
 
-## 🔧 Skills and Technologies
+## Games I've worked on
 
-### Programming Languages
-| Language        | Proficiency |
-|-----------------|-------------|
-| **C#**          | ██████████  | 
-| **C++**         | ██████▒▒▒▒  |
-| **JavaScript**  | ██████▒▒▒▒  |
-| **TypeScript**  | ██████▒▒▒▒  |
-| **Java**        | █▒▒▒▒▒▒▒▒▒  |
+| Project | About it |
+| --- | --- |
+| **[PixPhys](https://store.steampowered.com/app/1558100/PixPhys/)** | My 2D engineering sandbox on Steam. Build machines with simulated electricity and fuel systems, program them with nodes, and extend the game with C# mods. I'm currently working on its next update. |
+| **BUS** | The team project I work on as a Unity developer at Herbarium Games, using Photon Fusion for multiplayer. |
+| **[Dice ’n Roll](https://redsham.itch.io/dice-n-roll)** | Turn-based tactics with a mechanical die as your character. Every move changes its orientation and the attacks you can make. We presented the game at KRI 2026. |
+| **На Дне / Na Dne** | Our university team project in Unreal Engine 5, built around physics-based construction and climbing out of a deep pit. |
 
-### Game Development
-- **Unity** (since 2020) and **Unreal Engine 5** (since 2023)
-- Designing game mechanics and systems
-- Cross-platform support (mobile and PC)
-- Publishing games on **Steam**
+More games and jam projects are on **[itch.io](https://redsham.itch.io/)**.
 
-### Graphic Tools
-- **Photoshop**, **Illustrator**, **Aseprite**, **Figma**
-- **Blender**, **Substance Painter**
+## What I work with
 
-### Other Skills
-- **Git** — teamwork and version control
-- Telegram bot development
-- Working with **MySQL** (including database design)
-- Client-server interactions (APIs, databases)
+Most of my work is in **C# and Unity**: gameplay, physics, networking, UI, and tools. I use **URP, Photon Fusion, VContainer, UniTask, R3, Addressables, and Burst/Jobs** across my projects.
 
----
+I also work with **C++ and Unreal Engine 5**, and use **Blender, Substance Painter, and Aseprite** when a project needs visual work.
 
-## 🕹 Projects
+## Away from the editor
 
-### PixPhys
-**PixPhys** is a sandbox game blending physics simulation with creative engineering. In this debut project, players design a variety of machines, from simple carts with jet engines to complex spacecraft with autonomous flight modes.
+I photograph industrial sites, abandoned buildings, and old machinery. I travel with friends, bring a camera along, and ride a gravel bike. Industrial architecture and the details of how machines are built interest me just as much as the photos themselves.
 
-### Key Features & Responsibilities:
-- **Physics Simulation**: Integrated realistic physics using Unity's built-in engine, including aerodynamics, buoyancy, gravitational changes, and more.
-- **Gameplay Mechanics**: Developed a visual programming system for designing mechanical systems, using over 100 unique parts like propellers, engines, and fuel components.
-- **Visual Programming System**: Created a node-based programming interface allowing players to control their creations through intuitive, visual scripting rather than traditional code.
-- **Simulated Systems**: Added systems for electricity, fuel, and mechanical transmission to add depth to gameplay, where players must solve problems related to fuel transport and power generation.
-- **Modding Support**: Enabled modding capabilities using C#, providing players with tools to create and share custom content. Integrated support for expanding or customizing the game's features via mods.
+## Find me
 
-[Avaible on Steam](https://store.steampowered.com/app/1558100/PixPhys/)
-
----
-
-## 📫 Contact
-
-- 📩 **Email:** maksim.evdokimov.work@gmail.com
-- 📝 **Telegram:** https://t.me/Redsham
-
-Glad you stopped by! I hope my projects inspire or prove useful to you. 🚀
+[Telegram](https://t.me/Redsham) · [Email](mailto:maksim.evdokimov.work@gmail.com) · [itch.io](https://redsham.itch.io/)
