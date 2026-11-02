@@ -7,3 +7,10 @@ Use the attached photo as the edit target, not inspiration for a new scene. Keep
 Reframe into a wide crop that retains the person's head and upper body, the recognizable yellow doors and their large red warning lettering, and the right-hand red-lit wall. The result must look like the actual photograph, with no generative restyling or beautification.
 Add restrained professional typography in the dark negative space at the upper left, keeping clear of the person's head, headlamp, and the door lettering: large off-white uppercase text exactly "AZULE" in a clean bold sans-serif. Below it, smaller text exactly "Unity / C# developer".
 A very subtle localized dark gradient behind the typography is acceptable. No other graphics, borders, patterns, slogans, or text. Keep the photo's existing atmosphere and color grading.
+
+Revision: remove added overlay labels
+Tool: built-in imagegen
+Input: previous assets/banner-photo.jpg
+Export: JPEG, 1800 × 600
+
+Edit this existing 3:1 GitHub banner. Remove ONLY the added off-white overlay text "AZULE" and "Unity / C# developer" from the upper-left dark wall. Restore the dark wall texture naturally where these two overlay lines were. Preserve all other content, the 3:1 aspect ratio, exact composition, crop, person, pose, headlamp, architecture, yellow gates, red-lit wall, lighting, colors, contrast, and photographic detail. In particular, KEEP ALL ORIGINAL CYRILLIC STENCILED TEXT on the yellow doors and on the right wall completely unchanged. Those physical signs are part of the photograph and must not be removed or retouched. Add no text, no objects, and no other changes. Output a wide 3:1 photographic banner.
