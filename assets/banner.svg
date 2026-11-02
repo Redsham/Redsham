@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Azule — Maksim Evdokimov, Unity / C# developer</title>
+  <desc id="desc">A dark technical drawing with a mechanical die, a perspective grid, and mint and amber accents.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a6c9cc" stroke-opacity=".065"/></pattern>
+    <linearGradient id="backdrop" x2="1" y2="1"><stop stop-color="#101923"/><stop offset="1" stop-color="#142630"/></linearGradient>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="318" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#backdrop)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <path d="M0 0H8V320H0Z" fill="#8dd7c0"/>
+    <g font-family="Verdana,DejaVu Sans,sans-serif">
+      <text x="48" y="44" font-size="12" letter-spacing="2" fill="#a4b7c2">MAKSIM EVDOKIMOV / REDSHAM</text>
+      <text x="43" y="147" font-size="86" font-weight="700" letter-spacing="5" fill="#eef4ed">AZULE</text>
+      <text x="48" y="194" font-size="25" fill="#8dd7c0">Unity / C# developer</text>
+      <text x="48" y="235" font-size="14" fill="#bbcbd2">Gameplay systems, physics, and tools.</text>
+      <path d="M48 260H590" stroke="#314550"/>
+      <text x="48" y="286" font-size="11" letter-spacing=".5" fill="#91a6b2">SAINT PETERSBURG · ITMO · HERBARIUM GAMES</text>
+    </g>
+    <path d="M652 44V276" stroke="#617f88" stroke-opacity=".25" stroke-dasharray="3 9"/>
+    <g stroke="#577783" stroke-width="1" fill="none" opacity=".35">
+      <path d="M690 221L932 100L1190 229L948 350ZM722 237L964 116M754 253L996 132M786 269L1028 148M818 285L1060 164M850 301L1092 180M882 317L1124 196M914 333L1156 212M722 205L980 334M754 189L1012 318M786 173L1044 302M818 157L1076 286M850 141L1108 270M882 125L1140 254M914 109L1172 238"/>
+      <path d="M1090 51V147M1078 63H1120M1110 48V76M716 67H766M728 55V79"/>
+    </g>
+    <g stroke="#8dd7c0" stroke-width="1.8" stroke-linejoin="round">
+      <path d="M788 107L914 44L1040 107L914 170Z" fill="#233641"/>
+      <path d="M788 107L914 170V296L788 233Z" fill="#14252e"/>
+      <path d="M914 170L1040 107V233L914 296Z" fill="#1b3039"/>
+    </g>
+    <g fill="#e9eee3">
+      <ellipse cx="859" cy="107" rx="10" ry="5"/>
+      <ellipse cx="914" cy="107" rx="10" ry="5"/>
+      <ellipse cx="969" cy="107" rx="10" ry="5"/>
+      <ellipse cx="851" cy="202" rx="7" ry="11" transform="rotate(-26 851 202)"/>
+      <ellipse cx="951" cy="181" rx="7" ry="11" transform="rotate(26 951 181)"/>
+      <ellipse cx="1004" cy="154" rx="7" ry="11" transform="rotate(26 1004 154)"/>
+      <ellipse cx="977" cy="202" rx="7" ry="11" transform="rotate(26 977 202)"/>
+      <ellipse cx="951" cy="250" rx="7" ry="11" transform="rotate(26 951 250)"/>
+      <ellipse cx="1004" cy="223" rx="7" ry="11" transform="rotate(26 1004 223)"/>
+    </g>
+    <g fill="none" stroke="#e4ac72" stroke-width="1.5">
+      <path d="M914 44V23H1071M1040 233H1104V267H1153"/>
+      <circle cx="1076" cy="23" r="5" fill="#142630"/>
+      <circle cx="1158" cy="267" r="5" fill="#142630"/>
+      <path d="M746 158V137H766M1063 92V71H1043" stroke-opacity=".65"/>
+    </g>
+    <g fill="#a2b5bf" font-family="monospace" font-size="10" letter-spacing="1">
+      <text x="1091" y="27">GAMEPLAY</text>
+      <text x="1080" y="288">PHYSICS / LOGIC</text>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="319" rx="16" fill="none" stroke="#314650"/>
+</svg>
